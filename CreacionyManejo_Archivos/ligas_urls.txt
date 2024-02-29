@@ -1,0 +1,6 @@
+Liga Española: https://raw.githubusercontent.com/openfootball/football.json/master/2020-21/es.1.clubs.json
+Liga Alemana: https://raw.githubusercontent.com/openfootball/football.json/master/2020-21/de.1.clubs.json
+Liga Italiana: https://raw.githubusercontent.com/openfootball/football.json/master/2020-21/it.1.clubs.json
+Liga Austriaca: https://raw.githubusercontent.com/openfootball/football.json/master/2020-21/at.2.clubs.json
+Liga Inglesa: https://raw.githubusercontent.com/openfootball/football.json/master/2020-21/en.1.clubs.json
+
